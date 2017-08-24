@@ -1,3 +1,4 @@
+![Header-Image](https://github.com/joeherwig/check-websiteavailability/blob/master/img/check-websiteavailability.png)
 # check-websiteavailability
 is a set of scripts for checking whether a list of websites work correct.
 
