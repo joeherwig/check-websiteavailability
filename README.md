@@ -2,7 +2,7 @@
 # check-websiteavailability
 is a set of scripts for checking whether a list of websites work correct.
 
-# Why?
+## Why?
 We're running applications wich are connected to tenths of Websites to be used in the clients processes. Manual checking whether the sites are available or whether the credentials still suit, is quite annoying, time consuming and not very fault tolerant. Due to that i created a small set of scripts for doing this automatically. If course it can be easily extended for other / more websites, and even further web-automation can be easily implemented.
 
 ## Installation
